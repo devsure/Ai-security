@@ -1,0 +1,21 @@
+Home Surveillence:-
+Motion Detection using Cameras
+The system uses a combination of motion detection, human-body detection, and facial recognition technologies in its image and video object detection and recognition functions.
+The system is alerted when the motion detector senses a moving presence in the area covered by the camera.The system wakes up with a 10-second lag before beginning to capture and record images. The deep learning algorithms determine if the presence is that of a human, animal or another moving object.
+If it determines that the movement is from a person, the facial recognition algorithms identify and determine if the human is the homeowner or family member. The predictive AI technology then identifies patterns in the behavior of the person based on data collected by the camera, determines if the person’s actions suspicious.
+The application could detect a person lingering by a homeowner’s premises. Depending on the plan or offering that the customer purchases, the homeowner is alerted directly on his or her phone and has the opportunity to launch the drone or send a message to local police.
+Basic components required to make a simple motion detecting camera :-
+Digital camera
+Preferably quick at taking photos, with flash
+Passive IR motion sensor (PIR sensor)
+DPST Relay, 12V or 5V
+Any Mosfet
+Example: IRF640
+Rectifier,
+Example: 1N4001, 1N4002, 1N4003, 1N4004
+12V Voltage source
+AC adapter, or battery
+5V Voltage source
+regulated AC adapter or battery
+digital inverter
+Example: 74LS04
